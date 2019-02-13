@@ -4,4 +4,4 @@ Fantasy Crypto is a platform that can help prepare people for the real cryptocur
 
 This web application was made as a quick prototype to a .NET desktop application I want to develop sometime in the future. It is a Node.js application with back end rendering using EJS. CRUD operations which create, update, and remove documents on MongoDB with authentication and authorization. 
 
-Site URL: https://fantasycrypto.com
+Site URL: https://fantasycrypto.tech
